@@ -12,7 +12,7 @@
 2) **Como funciona JAVA Script. HTML, CSS**
 - **HTML** _(Esqueleto)_ HyperText MarkUp Language. Estructura de la Pagina Web. Separado por Tags. Texto, Imagenes, videos. Estructura y proposito
 - **CSS** _(Piel)_ Cascading Style Sheets Le da estilo al HTML, Fondo, colores, formato
-- **Java Script (JS)** _Nervios_ Controlar Multimedia, Animar imagenes. 
+- **Java Script (JS)** _(Nervios)_ Controlar Multimedia, Animar imagenes. 
   - API (Application Programming Interfaces) conjunto de codigos ya armados
     - Browser API: mostrar data en el contorno de la pagina web 
     - DOM: Document Object Model : Crea o remueve o modifica el HTML
